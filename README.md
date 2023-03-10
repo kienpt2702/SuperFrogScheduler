@@ -1,5 +1,5 @@
 # SuperFrogScheduler 
-### Timeline: Mar 2025 - May 2025
+### Timeline: Mar 2023 - May 2023
 ### Tech Stack
 - Front-end: JavaScript, Vue.js
 - Back-end: Java, Spring Boot, MySQL, Microsoft Azure
