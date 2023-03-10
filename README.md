@@ -1,5 +1,15 @@
 # SuperFrogScheduler 
 ### Timeline: Mar 2025 - May 2025
+### Tech Stack
+- Front-end: JavaScript, Vue.js
+- Back-end: Java, Spring Boot, MySQL, Microsoft Azure
+### Contributors:
+- Kien Pham
+- Joey Herzog
+- Taylor Griffin
+- Eric Guyette
+- Tommy Truong
+- Drake Do
 
 SuperFrog is TCU’s beloved Horned Frog Mascot. He attends all sporting events. There are an additional number of events (about 250 each year) around the TCU community that SuperFrog is expected to attend. SuperFrog does everything from reading at elementary schools, to visiting groups in the community, to weddings, to charity events, to golf tournaments. TCU Spirit Team has a team of about 8 students playing as the SuperFrog.
 
